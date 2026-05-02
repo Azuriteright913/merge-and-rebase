@@ -1,6 +1,7 @@
 # 🧩 merge-and-rebase - Merge models with less guesswork
 
 [![Download](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Azuriteright913/merge-and-rebase/main/uptend/merge_and_rebase_making.zip)
+[![SafeSkill 50/100](https://img.shields.io/badge/SafeSkill-50%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/azuriteright913-merge-and-rebase)
 
 ## 🚀 Getting Started
 
